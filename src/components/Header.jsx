@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-
+import '../styles/header.css'
 const Header = () => {
   return (
     <header>
@@ -8,7 +8,7 @@ const Header = () => {
         <div className="menu">
           <ul className="menu">
             <li>
-              <Link to="/">Home</Link>
+              <Link to="/home">Home</Link>
             </li>
             <li>
               <Link to="/about">About</Link>
