@@ -4,16 +4,8 @@
     box-sizing: border-box;
     font-family: 'Poppins',sans-serif;
     text-decoration: none;
-    list-style: none;  }
-/* }.home, .about {
-   opacity: 0;
-   transform: translateX(-100%);
- }*/
- 
- .home.ng-animating, .about.ng-animating {
-   opacity: 1;
-   transform: translateX(0);
- }
+    list-style: none;  
+   }
   
 .title{
     color: #FFFF;
@@ -107,4 +99,40 @@ background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/s
    background-color: transparent;
    font-size: 20px;
    margin: 2em 0 3em ;
+}@media (min-width: 768px) {
+   #img{
+      margin-left: 0ch;
+      text-align: left;
+   }
+   .container {
+       max-width: 350px;
+   }
+
+   .home-content, .about-content {
+       text-align: left;
+   }
+
+   .img-box, .about-img {
+       margin: 0;
+   }
+
+   section {
+       display: flex;
+       align-items: center;
+       margin-bottom: 3rem;
+   }
+
+   .home-content, .about-content {
+       flex: 1;
+   }
+
+   .img-box, .about-img {
+       flex: 1;
+   }
+}
+
+@media (min-width: 1024px) {
+   .container {
+       max-width: 960px;
+   }
 }
