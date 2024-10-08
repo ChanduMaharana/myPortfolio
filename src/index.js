@@ -11,7 +11,8 @@ root.render(
     <Router> {/* BrowserRouter needs to wrap the App */}
       <App />
     </Router>
-  </React.StrictMode>
+  </React.StrictMode>,
+   document.getElementById('root')
 );
 
 reportWebVitals();
