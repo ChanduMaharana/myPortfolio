@@ -100,13 +100,13 @@ export const Img = styled.img`
     width:350px;
 
   @media (max-width: 768px) {
-    max-width: 400px;
+    max-width: 350px;
     max-height: 400px;
   }
 
   @media (max-width: 640px) {
-    max-width: 280px;
-    max-height: 280px;
+    max-width: 230px;
+    max-height: 380px;
   }
 `;
 
