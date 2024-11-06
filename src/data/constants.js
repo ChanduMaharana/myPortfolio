@@ -1,4 +1,3 @@
-import {img}  from "../images/teachnook.jpg"
 export const Bio = {
     name: "Chandu Maharana",
     roles: [
@@ -11,7 +10,7 @@ export const Bio = {
       " /",
     linkedin: "https://www.linkedin.com/in/chandu-maharana-0b49b72a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     twitter: " /",
-    insta: "https://www.instagram.com/chandu_77?igsh=eXdlNW4wNG52Nnd1",
+    insta: "https://www.instagram.com/chandu_77/profilecard/?igsh=eXdlNW4wNG52Nnd1",
     facebook: " ",
   };
   
@@ -42,6 +41,11 @@ export const Bio = {
           name: "JavaScript",
           image:
             "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
+        },
+        {
+          name: "Type script",
+          image:
+          "https://github.com/user-attachments/assets/86d5ee65-5a5b-46ed-ae87-641055e7c8e6",
         },
         {
           name: "Bootstrap",
@@ -77,8 +81,7 @@ export const Bio = {
       skills: [
         {
           name: "Git",
-          image:
-            "https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667",
+          image:"https://github.com/user-attachments/assets/bca5651d-4636-4155-accb-e93aeaca9b54",
         },
         {
           name: "GitHub",
@@ -92,9 +95,18 @@ export const Bio = {
             "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519",
         },
         {
-          name: "Postman",
+          name: "Eclipse IDE",
           image:
-            "https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667",
+          "https://github.com/user-attachments/assets/9eede1b0-4f12-4d4b-b5f4-5b4c13cd46d3",
+        },
+        {
+          name: "Spring Tool Suite",
+          image: 
+          "https://img.icons8.com/color/48/spring-logo.png",
+        },
+        {
+          name: "Postman",
+          image:"https://github.com/user-attachments/assets/049008b1-d5da-4f83-a945-9a57ee0c45cd",
         },
        
       ],
