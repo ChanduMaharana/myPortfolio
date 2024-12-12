@@ -165,7 +165,7 @@ export const Bio = {
   
   export const projects = [
     {
-      id: 9,
+      id: 1,
       title: "Farm Management System",
       date: "Jun 2024 - Jul 2024",
       description:
@@ -182,7 +182,7 @@ export const Bio = {
       webapp: "https://farming-frontend-demo.vercel.app/",
     },
     {
-      id: 3,
+      id: 2,
       title: "Techayo-Ecommerce website",
       date: "Jun 2024 - Jul 2024",
       description:
@@ -196,11 +196,11 @@ export const Bio = {
         "Auth.O"
       ],
       category: "web app",
-      github: "https://github.com/220101120198",
+      github: "https://github.com/220101120198/React-Ecommerce",
       webapp: "https://react-ecommerce-sandy-mu.vercel.app/",
     },
     {
-      id: 2,
+      id: 3,
       title: "Rhyno-Ev Marketing Website",
       date: "Jun 2024 - Jul 2024",
       description:
@@ -212,8 +212,24 @@ export const Bio = {
         "java-script",
       ],
       category: "web app",
-      github: "https://github.com/220101120198",
+      github: "https://github.com/220101120198/RhynoEv-Marketing-WebApplication",
       webapp: "https://rhyno-ev-marketing-web-application.vercel.app/home",
+    },
+    {
+      id: 4,
+      title: "StopWatch-WebApplication",
+      date: "",
+      description:
+        "Stopwatch Web Application, developed as part of my web development internship at @Prodigy Infotech!.This project enhanced my frontend development skills, combining HTML, CSS, and JavaScript to build a user-friendly and interactive app",
+      image:
+        "https://github.com/user-attachments/assets/1e1e75cc-010e-4e96-8f12-b6db7f2e3a3f",
+      tags: [
+        "Html,Css",
+        "java-script",
+      ],
+      category: "web app",
+      github: "https://github.com/220101120198/StopWatchWeb",
+      webapp: "https://stop-watch-web.vercel.app/",
     },
     
   ];
