@@ -216,21 +216,22 @@ export const Bio = {
       webapp: "https://rhyno-ev-marketing-web-application.vercel.app/home",
     },
     {
-      id: 4,
-      title: "StopWatch-WebApplication",
+      id: 5,
+      title: "Tic-Tac-Toe Game",
       date: "",
       description:
-        "Stopwatch Web Application, developed as part of my web development internship at @Prodigy Infotech!.This project enhanced my frontend development skills, combining HTML, CSS, and JavaScript to build a user-friendly and interactive app",
+        "Tic Tac Toe, developed as part of my web development internship at @Prodigy Infotech!.This project enhanced my frontend development skills, combining HTML, CSS, and JavaScript to build a user-friendly and interactive app",
       image:
-        "https://github.com/user-attachments/assets/1e1e75cc-010e-4e96-8f12-b6db7f2e3a3f",
+        "https://github.com/user-attachments/assets/a962f2dd-a12a-44b4-b642-1880dcc042f6",
       tags: [
         "Html,Css",
         "java-script",
       ],
       category: "web app",
-      github: "https://github.com/220101120198/StopWatchWeb",
-      webapp: "https://stop-watch-web.vercel.app/",
+      github: "https://github.com/220101120198/Tica-Tac-ToeWebApplication",
+      webapp: "https://tica-tac-toe-web-application.vercel.app/",
     },
+
     
   ];
   
