@@ -5,9 +5,9 @@ export const Bio = {
     ],
     description:
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
-    github: "https://github.com/220101120198",
+    github: "https://github.com/ChanduMaharana",
     resume:
-      " /",
+      "https://github.com/user-attachments/files/18940858/ChanduMaharana.Resume.1.pdf",
     linkedin: "https://www.linkedin.com/in/chandu-maharana-0b49b72a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     twitter: " /",
     insta: "https://www.instagram.com/chandu_77/profilecard/?igsh=eXdlNW4wNG52Nnd1",
@@ -63,14 +63,24 @@ export const Bio = {
         },
       
         {
-          name: "java",
+          name: "Java",
           image:
             "https://img.icons8.com/nolan/100/java-coffee-cup-logo.png",
+        },
+        {
+          name: "Python",
+          image:
+            "https://github.com/user-attachments/assets/5de6c2f7-c9e8-4d2e-b7af-b9ff376c380b",
         },
         {
           name: "MySQL",
           image:
             "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
+        },
+        {
+          name: "PostgreSQL",
+          image:
+            "https://github.com/user-attachments/assets/66b33291-2552-4c58-b9c5-5f27aff0f7ce",
         },
     
       ],
@@ -129,6 +139,21 @@ export const Bio = {
         
       ],
       doc: "https://github.com/user-attachments/assets/cf429f5a-a44b-456d-925a-8c1d5d7e9822",
+    },
+    {
+      id: 1,
+      img: "https://github.com/user-attachments/assets/fe26399d-7278-423a-bdb4-392648c0d406",
+      role: "Web Development Intern",
+      company: "Profigy Infotech",
+      date: "Dec 2024 - Jan 2025",
+      // desc: "Working on Flipr Platforms, managing DevOps, and streamlining the process with automation.",
+      skills: [
+        "Html",
+        "Css",
+        "JavaScript",
+        
+      ],
+      doc: "https://github.com/user-attachments/assets/cb747162-23e6-4e88-9325-d3f9c0d62fe0",
     },
     
   ];
@@ -196,7 +221,7 @@ export const Bio = {
         "Auth.O"
       ],
       category: "web app",
-      github: "https://github.com/220101120198/React-Ecommerce",
+      github: "https://github.com/ChanduMaharana/React-Ecommerce",
       webapp: "https://react-ecommerce-sandy-mu.vercel.app/",
     },
     {
@@ -212,7 +237,7 @@ export const Bio = {
         "java-script",
       ],
       category: "web app",
-      github: "https://github.com/220101120198/RhynoEv-Marketing-WebApplication",
+      github: "https://github.com/ChanduMaharana/RhynoEv-Marketing-WebApplication",
       webapp: "https://rhyno-ev-marketing-web-application.vercel.app/home",
     },
     {
@@ -228,7 +253,7 @@ export const Bio = {
         "java-script",
       ],
       category: "web app",
-      github: "https://github.com/220101120198/StopWatchWeb",
+      github: "https://github.com/ChanduMaharana/StopWatchWeb",
       webapp: "https://stop-watch-web.vercel.app/",
     },
     {
@@ -244,8 +269,24 @@ export const Bio = {
         "java-script",
       ],
       category: "web app",
-      github: "https://github.com/220101120198/Tica-Tac-ToeWebApplication",
+      github: "https://github.com/ChanduMaharana/Tica-Tac-ToeWebApplication",
       webapp: "https://tica-tac-toe-web-application.vercel.app/",
+    },
+    {
+      id: 5,
+      title: "Whethear Forecast",
+      date: "",
+      description:
+        "Wethear Forecast Web Application, developed as part of my web development internship at @Prodigy Infotech!.This project enhanced my frontend development skills, combining HTML, CSS, and JavaScript to build a user-friendly and interactive app",
+      image:
+        "https://github.com/user-attachments/assets/be6919d6-68cc-4b48-a826-0cbbc0abe9be",
+      tags: [
+        "Html,Css",
+        "java-script",
+      ],
+      category: "web app",
+      github: "https://github.com/ChanduMaharana/WethearForecastWeb",
+      webapp: "https://weather-forecast-web-zeta.vercel.app/",
     },
     
   ];

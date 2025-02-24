@@ -93,6 +93,7 @@ export const GitHubButton = styled.a`
     }
     @media screen and (max-width: 768px) { 
     font-size: 14px;
+    margin-left:40%;
     }
 `;
 
@@ -127,6 +128,7 @@ export const MobileMenu = styled.div`
     display: flex;
     flex-direction: column;
     justify-content: center;
+    text-align:center;
     gap: 16px;
     position: absolute;
     top: 80px;
