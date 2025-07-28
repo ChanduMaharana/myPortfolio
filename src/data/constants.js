@@ -7,7 +7,7 @@ export const Bio = {
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/ChanduMaharana",
     resume:
-      "https://github.com/user-attachments/files/18940858/ChanduMaharana.Resume.1.pdf",
+      "https://github.com/user-attachments/files/21459409/ChanduMaharana_resume.pdf",
     linkedin: "https://www.linkedin.com/in/chandu-maharana-0b49b72a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     twitter: " /",
     insta: "https://www.instagram.com/chandu_77/profilecard/?igsh=eXdlNW4wNG52Nnd1",

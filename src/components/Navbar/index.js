@@ -33,7 +33,7 @@ const Navbar = () => {
           <NavLink href='#projects'>Projects</NavLink>
         </NavItems>
         <ButtonContainer>
-          <GitHubButton>GithubProfile</GitHubButton>
+          <GitHubButton href='https://github.com/ChanduMaharana'>GithubProfile</GitHubButton>
         </ButtonContainer>
       </NavbarContainer>
       {
