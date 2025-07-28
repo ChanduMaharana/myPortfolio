@@ -191,6 +191,23 @@ export const Bio = {
   export const projects = [
     {
       id: 1,
+      title: "Simple Blog Platform",
+      date: "Jun 2025 - Jul 2025",
+      description:
+        "An realtime blog platform which allows get,post,put.",
+      image:
+        "https://github.com/user-attachments/assets/bf7fcf40-4f99-44e0-8cac-3d88a4530346",
+      tags: [
+        "Angular",
+        "SpringBoot",
+        "MySQl",
+      ],
+      category: "web app",
+      github: "https://github.com/ChanduMaharana/simple-blog-platform",
+      // webapp: "https://farming-frontend-demo.vercel.app/",
+    },
+    {
+      id: 1,
       title: "Farm Management System",
       date: "Jun 2024 - Jul 2024",
       description:
