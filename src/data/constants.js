@@ -155,6 +155,21 @@ export const Bio = {
       ],
       doc: "https://github.com/user-attachments/assets/cb747162-23e6-4e88-9325-d3f9c0d62fe0",
     },
+    {
+      id: 3,
+      img: "https://github.com/user-attachments/assets/78ceed08-9c17-4965-977b-e7a1756b7a93",
+      role: "Software Development Engineering Intern",
+      company: "BlueStock Fintech",
+      date: "Dec 2024 - Jan 2025",
+      // desc: "Working on Flipr Platforms, managing DevOps, and streamlining the process with automation.",
+      skills: [
+        "Html",
+        "Css",
+        "JavaScript",
+        
+      ],
+      doc: "https://github.com/user-attachments/assets/fe8d5447-6602-4023-a468-254aad06947d",
+    },
     
   ];
   
