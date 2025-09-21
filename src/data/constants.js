@@ -7,7 +7,7 @@ export const Bio = {
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/ChanduMaharana",
     resume:
-      "https://github.com/user-attachments/files/21459409/ChanduMaharana_resume.pdf",
+      "https://drive.google.com/file/d/1rgI-B46dRYkd-1LkcB7fo3CDRc023uuK/view?usp=drive_link",
     linkedin: "https://www.linkedin.com/in/chandu-maharana-0b49b72a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     twitter: " /",
     insta: "https://www.instagram.com/chandu_77/profilecard/?igsh=eXdlNW4wNG52Nnd1",
@@ -157,18 +157,17 @@ export const Bio = {
     },
     {
       id: 3,
-      img: "https://github.com/user-attachments/assets/78ceed08-9c17-4965-977b-e7a1756b7a93",
+      img: "https://bluestock.in/static/assets/logo/logo-android.webp",
       role: "Software Development Engineering Intern",
       company: "BlueStock Fintech",
-      date: "Dec 2024 - Jan 2025",
+      date: "June 2025 - July 2025",
       // desc: "Working on Flipr Platforms, managing DevOps, and streamlining the process with automation.",
       skills: [
-        "Html",
-        "Css",
-        "JavaScript",
-        
+        "Angular",
+        "Springboot",
+        "Machine Learning",   
       ],
-      doc: "https://github.com/user-attachments/assets/fe8d5447-6602-4023-a468-254aad06947d",
+      doc: "https://drive.google.com/file/d/10fTMleS7hRiXLLh-AmshMKC9H3gCFb43/view?usp=drive_link",
     },
     
   ];
